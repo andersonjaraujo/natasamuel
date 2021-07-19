@@ -1,0 +1,13 @@
+name: jogo_memoria
+title: jogo_memoria
+username:
+account: aplicativo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4349277
+bundleId: 4784143
+url: https://aplicativo.shinyapps.io/jogo_memoria/
+when: 1625335785.77993
+lastSyncTime: 1625335785.77993
+asMultiple: FALSE
+asStatic: FALSE
